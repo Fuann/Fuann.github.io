@@ -2,25 +2,25 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Taipei, Taiwan
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p></p>
+    <p></p>
+    <p></p>
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an Associate Research Engineer at [Research Center for Psychological and Educational Testing (RCPET)](https://en.ntnu.edu.tw/p-centerrcp.php) in National Taiwan Normal University (NTNU), working on [Computer-assisted Language Learning (CALL)](https://en.wikipedia.org/wiki/Computer-assisted_language_learning) research. Currently, I have a special focus on fine-grained Automatic Pronunciation Assessment (APA).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Previously, I was a graduate student in the Computer Science and Information Engineering Department at National Taiwan Normal University, co-advised by [Jeih-weih Hung](https://scholar.google.com/citations?user=hDNxuvYAAAAJ&hl=zh-TW) and [Berlin Chen](https://scholar.google.com.tw/citations?user=-2c31OsAAAAJ&hl=en). My graduate research focused on developing algorithms for Speech Enhancement (SE), mainly focused on time-domain SE approaches and their applications to noise-robust Automatic Speech Recognition (ASR).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+If you have questions or would like to work together, feel free to reach out through [email](mailto:fuann@ntnu.edu.tw)!

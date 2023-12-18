@@ -4,3 +4,22 @@
 
 "PhysRev":
   url: https://journals.aps.org/
+
+# conference
+"Interspeech":
+  color: "#00369F"
+  url: https://www.isca-speech.org/iscaweb/index.php/conferences/interspeech
+"APSIPA ASC":
+  color: "#00369F"
+  url: http://www.apsipa.org/
+"ASRU":
+  color: "#00369F"
+  url: https://ieeexplore.ieee.org/xpl/conhome/9687821/proceeding
+"ICME":
+  color: "#00369F"
+  url: https://ieeexplore.ieee.org/xpl/conhome/1000477/all-proceedings
+
+# journal
+"IEEE MultiMedia":
+  color: "#9f0036"
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=93
