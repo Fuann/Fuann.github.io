@@ -282,17 +282,33 @@ blockquote {
   .navbar-brand.social {
     padding-bottom: 0;
     padding-top: 0;
-    font-size: 2.0rem;
+    font-size: 2.2rem;
 
     a {
+
+      i {
+        color: var(--global-text-color)
+      }
+
       i::before {
-        color: var(--global-text-color);
         transition-property: all 0.2s ease-in-out;
+      }
+
+      i.fa-solid.fa-envelope-square{
+        color: #c84e3f;
+      }
+
+      i.ai.ai-google-scholar-square{
+        color: #5086ec;
+      }
+
+      i.fa-brands.fa-linkedin{
+        color: #0e76a8;
       }
 
       &:hover {
         i::before {
-          color: var(--global-theme-color);
+          opacity: 0.7;
         }
       }
     }
