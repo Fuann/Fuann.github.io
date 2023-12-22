@@ -22,7 +22,8 @@
     - title: 'Involving in projects of:'
       items:
         - 'Automatic pronunciation scoring system (<a href="https://teemi.tw/">TEEMI platform</a>)'
-        - 'Automatic word difficulty estimation'
+        - 'Automatic word difficulty estimates'
+        - 'Automatic literacy estimates'
 
 - title: Education
   type: time_table
@@ -55,10 +56,10 @@
 - title: Challenge Competition
   type: time_table
   contents:
-    - title: <i class="fa-solid fa-medal"></i> 1<sup>st</sup> on track 3
+    - title: '<i class="fa-solid fa-medal" style="color: #FE9C04"></i> 1<sup>st</sup> place on track 3'
       institution: <a href="https://sites.google.com/speech.ntut.edu.tw/fsw/home/challenge-2020">Formosa Speech Recognition Challenge 2020 - Taiwanese ASR</a>
       year: 2020
-    - title: <i class="fa-solid fa-medal"></i> 2<sup>nd</sup> / 3<sup>rd</sup> place on closed / open track
+    - title: '<i class="fa-solid fa-medal" style="color: #A6A9B2"></i> 2<sup>nd</sup> / 3<sup>rd</sup> place on closed / open track'
       institution: <a href="https://sites.google.com/view/wocci/home/interspeech-2020-special-session">Interspeech 2020 - Shared Task on Automatic Speech Recognition for Non-native Children Speech</a>
       year: 2020
 

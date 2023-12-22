@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: SE for noise-robust ASR demo
+description: A Time-reversal Enhancement Network with Cross-domain Information for Noise-robust Speech Recognition, IEEE MultiMedia, 2021.
+img: assets/img/project/cd-tenet.png
 importance: 3
-category: work
+category: none
+redirect: https://fuann.github.io/CD-TENET/
 ---
 
 Every project has a beautiful feature showcase page.

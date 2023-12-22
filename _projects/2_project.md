@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
-importance: 2
-category: work
-giscus_comments: true
+title: Speech Enhancement
+description: a demo of using SE for noise-robust ASR at low-SNR levels.
+img: assets/img/project/cd-tenet.png
+importance: 1
+category: research
+redirect: https://fuann.github.io/CD-TENET/
 ---
 
 Every project has a beautiful feature showcase page.

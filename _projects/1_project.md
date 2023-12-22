@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
-importance: 1
+title: TEEMI
+description: an automatic pronunciation scoring system for Taiwanese college students to improve their English speaking proficiency.
+img: assets/img/project/teemi.png
+importance: 2
 category: work
-related_publications: einstein1956investigations, einstein1950meaning
+redirect: https://teemi.tw/
 ---
 
 Every project has a beautiful feature showcase page.

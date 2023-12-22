@@ -142,6 +142,7 @@ blockquote {
   }
 
   .card-title {
+    font-size: 1.7em;
     color: var(--global-text-color);
   }
 
@@ -467,7 +468,7 @@ footer.sticky-bottom {
 
       .badge {
         color: var(--global-card-bg-color) !important;
-        background-color: var(--global-theme-color) !important;
+        background-color: #2266e8 !important;
       }
     }
   }
@@ -614,6 +615,11 @@ footer.sticky-bottom {
     img {
       width: 100%;
     }
+  }
+
+  .card-body {
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
   }
 
   .card-item {
@@ -856,6 +862,12 @@ html.transition *:after {
 }
 
 // Extra Markdown style (post Customization)
+
+.clearfix {
+   font-family: "Carbin";
+   font-weight: 350;  
+}
+
 .post {
   .post-meta {
     color: var(--global-text-color-light);
