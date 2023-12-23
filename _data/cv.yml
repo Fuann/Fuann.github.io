@@ -36,7 +36,6 @@
         - 'Advisor: <a href="https://scholar.google.com.tw/citations?user=-2c31OsAAAAJ&hl=en">Prof. Berlin Chen</a> and <a href="https://scholar.google.com/citations?user=hDNxuvYAAAAJ&hl=zh-TWo">Prof. Jeih-weih Hung</a>'
         - Working on <a href="https://en.wikipedia.org/wiki/Speech_enhancement">SE</a> and robust <a href="https://en.wikipedia.org/wiki/Speech_recognition">ASR<a/> in <a href="https://smil.csie.ntnu.edu.tw/">SMIL Lab</a>
 
-
 - title: Honors and Awards
   type: time_table
   contents:
@@ -62,8 +61,6 @@
     - title: '<i class="fa-solid fa-medal" style="color: #A6A9B2"></i> 2<sup>nd</sup> / 3<sup>rd</sup> place on closed / open track'
       institution: <a href="https://sites.google.com/view/wocci/home/interspeech-2020-special-session">Interspeech 2020 - Shared Task on Automatic Speech Recognition for Non-native Children Speech</a>
       year: 2020
-
-
 
 - title: Other Interests
   type: list
