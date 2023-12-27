@@ -9,6 +9,7 @@
     {% if include.controls %}controls{% endif %}
     {% if include.loop %}loop{% endif %}
     {% if include.muted %}muted{% endif %}
+    controlsList="nodownload"
   />
 
   {%- if include.caption -%}<figcaption class="caption">{{ include.caption }}</figcaption>{%- endif %}

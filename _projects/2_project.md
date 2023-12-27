@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Speech Enhancement
-description: a demo of using SE for noise-robust ASR at low-SNR levels.
+description: a demo of using an SE model (CD-TENET) for noise-robust ASR at low-SNR levels.
 img: assets/img/project/cd-tenet.png
-importance: 1
+importance: 3
 category: research
 redirect: https://fuann.github.io/CD-TENET/
 ---

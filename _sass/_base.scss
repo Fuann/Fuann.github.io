@@ -27,6 +27,19 @@ p {
   text-align: justify;
 } 
 
+p.prompt-title{
+  font-weight: bolder;
+  font-size: 14px;
+  word-spacing: 3px;
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+h2.title {
+  margin-top: 3rem;
+  margin-bottom: 0.5rem;
+}
+
 table {
   td,
   th {
@@ -36,6 +49,55 @@ table {
   th {
     font-weight: bold;
   }
+}
+
+.table td {
+  padding: 0.55rem;
+  border-top: none;
+}
+
+table.table td {
+  font-size: 14px;
+
+  pre {
+    padding: 0px 0px;
+    font-size: 14px;
+    border-radius: 0px;
+    background-color: transparent;
+    margin-top: 0rem;
+    margin-bottom: 0rem;
+    span {
+      color: #c84e3f;
+    }
+  }
+}
+
+table.table-sm th, table.table-sm td {
+  font-size: 16px;
+}
+
+table.table td.first-row {
+  font-size: 16px;
+  font-weight: normal;
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+
+table.table td.first-col {
+  width: 150px;
+  min-width: 150px;
+}
+
+table.table td.last-col {
+  width: 200px;
+  min-width: 200px;
+  padding-top: 6px;
+  padding-bottom: 0px;
+}
+
+audio {
+  width: 190px;
+  height: 30px;
 }
 
 a,
@@ -50,6 +112,9 @@ table.table a {
   &:hover:after :not(.nav-item.dropdown) {
     width: 100%;
   }
+}
+.table-bordered, .table-bordered td{
+  border: none;
 }
 
 .table-dark {
@@ -142,7 +207,9 @@ blockquote {
   }
 
   .card-title {
-    font-size: 1.7em;
+    font-size: 1.6em;
+    margin-top: 0rem;
+    margin-bottom: 0.75rem;
     color: var(--global-text-color);
   }
 
@@ -834,6 +901,7 @@ pre {
   background-color: var(--global-code-bg-color);
   border-radius: 6px;
   padding: 6px 12px;
+  margin-top: 1rem;
 
   pre,
   code {
