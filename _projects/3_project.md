@@ -189,7 +189,7 @@ In response to this challenge, we have devised a solution by creating an L2 spee
                         <source src="/assets/audio/ZEROSHOT_ex_1_mis.wav">
                     </audio>
                 </td>
-                <td><pre>there was a <span>talk</span> in the afternoon</pre></td>
+                <td><pre>there was a <span>talk</span> in <span>the</span> afternoon</pre></td>
             </tr>
             </tbody>
         </table>
