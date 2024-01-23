@@ -270,7 +270,7 @@ In response to this challenge, we have devised a solution by creating an L2 spee
                         <source src="/assets/audio/ZEROSHOT_ex_1_interp.wav">
                     </audio>
                 </td>
-                <td><pre>dh eh r | w ah z | <span>sil</span> | ah | d ao g | <span>sil</span> |ih n | dh iy | eh f t er n uw</pre></td>
+                <td><pre>dh eh r | w ah z | <span>sil</span> | ah | d ao g | <span>sil</span> | ih n | dh iy | eh f t er n uw</pre></td>
             </tr>
             </tbody>
         </table>
