@@ -2,7 +2,7 @@
 layout: page
 title: L2 Speech Synthesizer
 description: generate non-native English utterances using publicly-available l2-arctic data.
-img: assets/img/project/l2-mis-gen.png
+img: assets/img/project/l2-mis-gen.jpg
 importance: 1
 category: research
 ---

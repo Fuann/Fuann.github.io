@@ -2,7 +2,7 @@
 layout: page
 title: TEEMI
 description: an automatic pronunciation scoring system for Taiwanese college students to improve their English speaking proficiency.
-img: assets/img/project/teemi.png
+img: assets/img/project/teemi.jpg
 importance: 2
 category: work
 redirect: https://teemi.tw/
