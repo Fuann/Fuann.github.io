@@ -6,7 +6,7 @@ subtitle: Taipei, Taiwan
 
 profile:
   align: right
-  image: about_pic.jng
+  image: about_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p></p>
