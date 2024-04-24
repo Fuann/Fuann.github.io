@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I launched my website! :rocket:
+I launched my website!

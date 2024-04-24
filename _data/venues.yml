@@ -10,16 +10,19 @@
   color: "#2266e8"
   url: https://www.isca-speech.org/iscaweb/index.php/conferences/interspeech
 "APSIPA ASC":
-  color: "#2266e8"
+  color: "#ff8d00"
   url: http://www.apsipa.org/
 "ASRU":
-  color: "#2266e8"
+  color: "#c23131"
   url: https://ieeexplore.ieee.org/xpl/conhome/9687821/proceeding
 "ICME":
-  color: "#2266e8"
+  color: "#1e81b0"
   url: https://ieeexplore.ieee.org/xpl/conhome/1000477/all-proceedings
+"NAACL":
+  color: "#e41e3f"
+  url: https://2024.naacl.org/
 
 # journal
 "IEEE MultiMedia":
-  color: "#c84e3f"
+  color: "#5fbb4e"
   url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=93
