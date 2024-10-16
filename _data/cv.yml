@@ -4,7 +4,7 @@
     - name: Full Name
       value: Fu-An Chao
     - name: Contact
-      value: fuann@ntunu.edu.tw
+      value: fuann@ntnu.edu.tw
     - name: Languages
       value: Mandarin, English
 
@@ -13,7 +13,7 @@
   contents:
     - title: Associate Research Engineer
       institution: Research Center for Psychological and Educational Testing (RCPET), NTNU
-      year: 2022 - now
+      year: 2022 - 2023
       description:
         - title: 'Working on <a href="https://en.wikipedia.org/wiki/Computer-assisted_language_learning">CALL</a> research including:'
           contents:
@@ -30,7 +30,7 @@
   contents:
     - title: M.S. in Computer Science
       institution: National Taiwan Normal University (NTNU)
-      year: 2019-2021
+      year: 2018 - 2021
       description:
         - 'GPA: 4.3 (4.3 scale)'
         - 'Advisor: <a href="https://scholar.google.com.tw/citations?user=-2c31OsAAAAJ&hl=en">Prof. Berlin Chen</a> and <a href="https://scholar.google.com/citations?user=hDNxuvYAAAAJ&hl=en">Prof. Jeih-weih Hung</a>'
