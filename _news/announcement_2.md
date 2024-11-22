@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Project release - <a href="https://fuann.github.io/projects/3_project">L2 Speech Synthesizer</a>
+Project release - <a href="https://fuann.github.io/projects/L2SS">L2 Speech Synthesizer</a>
