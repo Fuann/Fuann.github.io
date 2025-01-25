@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper accepted to NAACL 2024 :pushpin: :sparkles:
+One paper accepted to NAACL 2024!
