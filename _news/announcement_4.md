@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper accepted to NAACL 2025, see you in Albuquerque! :pushpin: :sparkles:
+One paper has been accepted to NAACL 2025, see you in Albuquerque! :pushpin: :sparkles:
